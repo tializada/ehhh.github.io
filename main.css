@@ -17,5 +17,5 @@ nav a
 nav a.active
   {
     background-color: #04AA6D;
-    color: white;
+    color: #f2f2f2;
   }
