@@ -7,7 +7,7 @@ nav.style
 nav.style a
   {
     float: left;
-    colour: #f2f2f2;
+    text-color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -16,6 +16,6 @@ nav.style a
 
 nav.style a.active
   {
-    background-colour: #04AA6D;
-    colour: white;
+    background-color: #04AA6D;
+    text-color: #f2f2f2;
   }
